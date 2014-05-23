@@ -1,0 +1,15 @@
+{
+  "name": "query-string",
+  "repo": "nk-components/query-string",
+  "description": "Parse query string in a URL",
+  "version": "0.0.1",
+  "keywords": [
+    "url",
+    "query",
+    "string"
+  ],
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
