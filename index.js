@@ -15,6 +15,18 @@ function value(prop) {
 }
 
 /**
+ * If the list has a property.
+ *
+ * @return {Boolean}
+ */
+
+exports.has = has;
+
+function has(prop) {
+  return prop in list();
+}
+
+/**
  * Returns the list of query string.
  *
  * @return {Object}
