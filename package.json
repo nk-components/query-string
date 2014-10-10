@@ -1,0 +1,19 @@
+{
+  "name": "query-string",
+  "version": "1.0.0",
+  "description": "Parse query string in a URL",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "url",
+    "query",
+    "string"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/query-string"
+  }
+}
