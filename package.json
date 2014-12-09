@@ -1,5 +1,5 @@
 {
-  "name": "query-string",
+  "name": "nk-query-string",
   "version": "1.0.0",
   "description": "Parse query string in a URL",
   "main": "index.js",
@@ -12,8 +12,12 @@
     "string"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/nk-components/query-string",
   "repository": {
     "type": "git",
     "url": "https://github.com/nk-components/query-string"
+  },
+  "bugs": {
+    "url": "https://github.com/nk-components/query-string/issues"
   }
 }
